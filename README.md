@@ -1,2 +1,2 @@
 # FirestoreRepository
-This is a little repository how handle gracefully the write rate.
+This is a little repository who handle gracefully the firebase write rate.
